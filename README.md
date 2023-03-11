@@ -52,7 +52,7 @@ __Donc ce qui nous donne l'algorithme suivant :__
     - La ligne devient [2 * a ,2 * c ,0 ,0] 
   - Sinon (c différent de d)
     - La ligne devient [2* a,c ,d , 0] 
-- Sinon ( cas a != b )
+- Sinon ( a différent de b )
   - Si b = c
     - La ligne devient [a , 2 * b ,d ,0] 
   - Sinon ( b différent de c )
