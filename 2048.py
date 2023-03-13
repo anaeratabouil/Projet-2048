@@ -4,7 +4,7 @@
 Projet 2048
 L1 MI TD2
 2022/2023
-Dorian Le Guillou, Anaé ratabouil, William Dang
+Dorian Le Guillou, Anaé Ratabouil, William Dang
 
 ##########################################
 """
